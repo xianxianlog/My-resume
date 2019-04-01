@@ -1,6 +1,8 @@
 # My-resume
 我的简历
 
+姓名：郭**  性别：男  联系邮箱：nowguo@163.com
+
 ### 技能：
 掌握python以及django框架，html/css/javascript/jquery，具备编写网站后台的能力和基本前端界面的能力。</br>
 掌握mysql，redis以及Mongodb。</br>
@@ -17,3 +19,4 @@
 
 ### 工作经验：
 食品行业研发工作，从略</br>
+
